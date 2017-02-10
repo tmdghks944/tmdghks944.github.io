@@ -1,16 +1,22 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+#subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+#<right>Baek Seung Hwan</right>
+#<right>백승환 / tmdghks944</right>
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+----
 
-What else do you need?
+### 자기 소개
+- 경상남도 거창군 출생<br/>
+- 거창초 거창대성중 거창대성고 졸업<br/>
+- 인하대학교 컴퓨터정보공학과 재학 중(2011~)<br/>
+### 특이사항
+- 낚시, 요리, 운동을 좋아함.<br/>
+- 롯데자이언츠의 광팬.<br/>
+- 인하대학교 알고리즘 학술 소모임 CTP 활동 중(2014~)<br/>
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+email: tmdghks944@naver.com<br>
+github: [github.com/tmdghks944](https://github.com/tmdghks944)
