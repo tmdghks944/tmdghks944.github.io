@@ -4,9 +4,6 @@ title: About me
 #subtitle: Why you'd want to go on a date with me
 ---
 
-<right>Baek Seung Hwan</right><br/>
-<right>백승환 / tmdghks944</right>
-
 ----
 
 ### 자기 소개
