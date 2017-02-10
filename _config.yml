@@ -86,7 +86,7 @@ url-pretty: "tmdghks944.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "tmdghks944"
 
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-91668584-1"
